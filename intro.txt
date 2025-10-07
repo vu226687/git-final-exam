@@ -1,0 +1,15 @@
+Giới thiệu cá nhân:
+Tôi tên là Phan Thanh Vũ.
+Tôi là sinh viên năm 4 ngành Công nghệ thông tin.
+Tôi yêu thích lập trình và khám phá công nghệ mới.
+Tôi mong muốn phát triển kỹ năng Git và GitHub.
+Tôi thích làm việc nhóm và chia sẻ kiến thức với bạn bè.
+
+Sở thích:
+- Chơi bóng đá
+- Nghe nhạc
+
+Kỹ năng:
+- Sử dụng Git cơ bản
+- Viết code Python
+- Làm việc nhóm hiệu quả
