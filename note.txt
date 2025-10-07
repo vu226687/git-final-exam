@@ -1,0 +1,4 @@
+Cảm nhận về Git:
+- Git giúp quản lý phiên bản mã nguồn hiệu quả.
+- Dễ dàng theo dõi lịch sử thay đổi.
+- Hỗ trợ làm việc nhóm rất tốt.
