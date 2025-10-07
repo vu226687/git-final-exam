@@ -13,3 +13,10 @@ Kỹ năng:
 - Sử dụng Git cơ bản
 - Viết code Python
 - Làm việc nhóm hiệu quả
+
+Kế hoạch học tập:
+1. Học và luyện tập các lệnh Git nâng cao.
+2. Thực hành làm việc nhóm với GitHub.
+3. Tham gia các dự án mã nguồn mở nhỏ.
+4. Cải thiện kỹ năng quản lý phiên bản.
+5. Áp dụng Git vào các môn học lập trình.
