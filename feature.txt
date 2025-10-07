@@ -1,0 +1,6 @@
+Tính năng mới: Quản lý danh sách học tập.
+1. Cho phép thêm công việc học tập mới.
+2. Cho phép đánh dấu công việc đã hoàn thành.
+3. Ghi chú tiến độ mỗi ngày.
+4. Tự động tạo báo cáo tổng kết cuối tuần.
+5. Dễ dàng đồng bộ với GitHub.
